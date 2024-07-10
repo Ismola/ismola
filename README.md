@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 
 - 🌱 **Actualmente estoy aprendiendo** PHP, BlockChain & ESP32 microcontrollers
 - 👯 **Colaboro en** [PowerByAPI](https://github.com/Power-By-API), [Siryus](https://siryus.es/) y [Ennomotive](https://www.ennomotive.com/)
-- 💬 **Pregúntame sobre** Selenium, Docker, React, Node y Bash Scripts
+- 💬 **Pregúntame sobre** React, Node, Docker, MongoDB, o Selenium.
 - 😄 **Pronombres**: Ismola
 - ⚡ **Dato curioso**: Obtuve media de sobresaliente durante mis estudios
 
