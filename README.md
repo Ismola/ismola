@@ -114,7 +114,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/ismatrevi/)
-- [Email](mailto:ismatrevimart@gmail.com)
+- [Email](mailto:code@ismola.dev)
 
 ---
 
