@@ -73,7 +73,6 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 [![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
