@@ -12,9 +12,8 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 
 ## 📈 Mis estadísticas en GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ismola&show_icons=true&theme=white)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ismola&layout=compact&theme=white)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ismola&hide_border=true&include_all_commits=true&count_private=true) 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismola&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🛠️ Lenguajes y Herramientas que he usado
 
@@ -118,3 +117,9 @@ Puedes encontrarme en:
 ---
 
 ¡Gracias por visitar mi perfil!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marve10s/marve10s/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marve10s/marve10s/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/marve10s/ismola/output/github-snake.svg" />
+</picture>
