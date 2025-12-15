@@ -12,7 +12,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 
 ## 📈 Mis estadísticas en GitHub
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ismola&hide_border=true&include_all_commits=true&count_private=true) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ismola&include_all_commits=true&count_private=true) 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismola&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🛠️ Lenguajes y Herramientas que he usado
