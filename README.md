@@ -4,7 +4,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 
 ## 🚀 Sobre mí
 
-- 🌱 **Actualmente estoy aprendiendo** kubernetes
+- 🌱 **Actualmente estoy aprendiendo** k8s
 - 👯 **Colaboro en** [PowerByAPI](https://github.com/Power-By-API), [Siryus](https://siryus.es/) y [Ennomotive](https://www.ennomotive.com/)
 - 💬 **Pregúntame sobre** React, Docker, Dev Containers, o Selenium.
 - 😄 **Pronombres**: Ismola
