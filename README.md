@@ -102,11 +102,6 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-## 🔥 Proyectos Destacados
-
-- [**Selenium Quick Starter**](https://github.com/Ismola/selenium-scraper-quickstarter): Una ayuda para empezar tu proyecto con selenium Y Flask
-- [**JS SNAKE**](https://github.com/Ismola/JS-Snake): El mítico juego Snake, que hice mientras estaba estudiando
-
 ## 📫 Cómo contactarme
 
 Puedes encontrarme en:
