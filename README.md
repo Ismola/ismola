@@ -87,7 +87,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 
 ### Otro
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 [![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
