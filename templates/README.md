@@ -26,10 +26,6 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ismola&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismola&theme=tokyonight" alt="Repositories per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ismola&theme=tokyonight" alt="Productive time" />
 </p>
