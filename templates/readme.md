@@ -12,7 +12,13 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 
 ## 📈 Mis estadísticas en GitHub
 
-
+```
+⭐  Total Stars:                  {total_stars: 10,d}
+➕  Total Commits:                {total_commits: 10,d}
+🔀  Total PRs:                    {total_pull_requests: 10,d}
+🚩  Total Issues:                 {total_issues: 10,d}
+📦  Contributed to:               {contributed_to: 10,d}
+```
 
 ## 🛠️ Lenguajes y Herramientas que he usado
 
@@ -111,3 +117,5 @@ Puedes encontrarme en:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marve10s/marve10s/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/marve10s/ismola/output/github-snake.svg" />
 </picture>
+
+
