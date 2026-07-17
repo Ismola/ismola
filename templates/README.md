@@ -20,6 +20,20 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 📦  Contributed to:               {contributed_to: 10,d}
 ```
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismola&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ismola&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ismola&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismola&theme=tokyonight" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ismola&theme=tokyonight" alt="Productive time" />
+</p>
+
 ## 🛠️ Lenguajes y Herramientas que he usado
 
 ### ☁️ Cloud
@@ -62,7 +76,6 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
-
 ### 🖼️ Framework
 
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
@@ -91,6 +104,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 ![WSL](https://img.shields.io/badge/-WSL-black?style=flat-square&logo=linux)
 
 ### Otro
+
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
@@ -117,5 +131,3 @@ Puedes encontrarme en:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marve10s/marve10s/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/marve10s/ismola/output/github-snake.svg" />
 </picture>
-
-
