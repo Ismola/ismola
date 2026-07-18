@@ -13,11 +13,11 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Disfruto ap
 ## 📈 Mis estadísticas en GitHub
 
 ```
-⭐  Total Stars:                  {total_stars: 10,d}
-➕  Total Commits:                {total_commits: 10,d}
-🔀  Total PRs:                    {total_pull_requests: 10,d}
-🚩  Total Issues:                 {total_issues: 10,d}
-📦  Contributed to:               {contributed_to: 10,d}
+⭐  Total Stars:                           7
+➕  Total Commits:                     4,696
+🔀  Total PRs:                           174
+🚩  Total Issues:                         77
+📦  Contributed to:                       63
 ```
 
 <p align="center">
