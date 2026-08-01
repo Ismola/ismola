@@ -56,10 +56,10 @@ Soy desarrollador de software y disfruto convirtiendo ideas en soluciones manten
 
 ```text
 ⭐  Stars recibidas                7
-●   Commits                    4,837
-⑂   Pull requests                185
+●   Commits                    4,831
+⑂   Pull requests                167
 ◉   Issues                        77
-◆   Repositorios                  63
+◆   Repositorios                  61
 ```
 
 <div align="center">
