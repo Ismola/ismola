@@ -56,7 +56,7 @@ Soy desarrollador de software y disfruto convirtiendo ideas en soluciones manten
 
 ```text
 ⭐  Stars recibidas                7
-●   Commits                    4,924
+●   Commits                    4,977
 ⑂   Pull requests                170
 ◉   Issues                        77
 ◆   Repositorios                  62
